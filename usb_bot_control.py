@@ -14,8 +14,8 @@ from usb_detector import (
 )
 
 # === BOT SETTINGS ===
-BOT_TOKEN = "7667479593:AAHXBCe5hiP4yMQ5caDI4WNCR4DqLvbSJI8"
-AUTHORIZED_CHAT_ID = 1550711726  # Replace with your Telegram user ID
+BOT_TOKEN = "API_TOKEN"
+AUTHORIZED_CHAT_ID = 123456789  # Replace with your Telegram user ID
 
 # === ALERT CALLBACK SETUP ===
 async def send_alert(message):
