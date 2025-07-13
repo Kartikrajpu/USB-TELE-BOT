@@ -1,0 +1,4 @@
+psutil
+pywin32
+watchdog
+python-telegram-bot==20.3
